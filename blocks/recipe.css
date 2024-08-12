@@ -2,3 +2,11 @@
   width: 100%;
   margin: 0;
 }
+
+@media screen and (min-width: 680px) {
+  .recipe__image {
+    border-radius: 10px;
+    width: 92%;
+    margin: 3% 4% 0;
+  }
+}

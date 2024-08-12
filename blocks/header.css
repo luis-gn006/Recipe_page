@@ -40,3 +40,12 @@
 .header__list-normal {
   color: hsl(30, 10%, 34%);
 }
+
+@media screen and (min-width: 680px) {
+  .header__title {
+    align-self: start;
+  }
+  .header__list-item {
+    margin-bottom: 2%;
+  }
+}

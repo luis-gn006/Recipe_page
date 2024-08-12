@@ -26,3 +26,12 @@
   height: 1px;
   margin: 10% 0;
 }
+
+@media screen and (min-width: 680px) {
+  .ingredients__list-item {
+    margin: 0 0 1%;
+  }
+  .ingredients__list-normal {
+    margin: 0 0 0 3%;
+  }
+}
