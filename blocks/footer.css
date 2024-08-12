@@ -1,0 +1,13 @@
+.footer {
+  font-size: 11px;
+  text-align: center;
+  font-family: "Outfit", sans-serif;
+}
+.footer a {
+  color: hsl(14, 45%, 36%);
+}
+
+.footer a:hover {
+  opacity: 80%;
+  font-size: 12px;
+}

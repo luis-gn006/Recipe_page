@@ -1,0 +1,38 @@
+.nutrition {
+  margin: 10% 8%;
+  font-family: "Outfit", sans-serif;
+}
+.nutrition__title {
+  font-family: "Young Serif", serif;
+  font-size: 26px;
+  color: hsl(14, 45%, 36%);
+  margin: 0;
+}
+.nutrition__paragraph {
+  color: hsl(30, 10%, 34%);
+}
+.nutrition__table {
+  table-layout: fixed;
+  width: 100%;
+}
+.nutrition__first-table {
+  margin-top: 7%;
+}
+
+.nutrition__line {
+  background-color: hsl(30, 18%, 87%);
+  height: 1px;
+  margin: 10% 0;
+}
+
+.nutrition__table-color {
+  color: hsl(14, 45%, 36%);
+  text-align: start;
+  padding-left: 8%;
+}
+
+.nutrition__table-normal {
+  text-align: start;
+  padding-left: 8%;
+  color: hsl(30, 10%, 34%);
+}
