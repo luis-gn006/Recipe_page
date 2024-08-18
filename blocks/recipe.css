@@ -8,5 +8,6 @@
     border-radius: 10px;
     width: 92%;
     margin: 3% 4% 0;
+    transition: 0.3s;
   }
 }

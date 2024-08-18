@@ -21,6 +21,7 @@ body {
     position: relative;
     top: 50px;
     border-radius: 15px;
+    transition: 0.5s;
   }
   body {
     background-color: #f3e5d8;

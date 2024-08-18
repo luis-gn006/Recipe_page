@@ -8,17 +8,17 @@
 }
 .ingredients__list {
   font-family: "Outfit", sans-serif;
-  margin-left: -5%;
+  margin-left: -4%;
 }
 .ingredients__list-item {
   color: hsl(14, 45%, 36%);
   margin: 0 0 5%;
+  padding-left: 10px;
   text-align: start;
 }
 
 .ingredients__list-normal {
   color: hsl(30, 10%, 34%);
-  margin: 0 0 0 6%;
 }
 
 .ingredients__line {
@@ -30,8 +30,5 @@
 @media screen and (min-width: 680px) {
   .ingredients__list-item {
     margin: 0 0 1%;
-  }
-  .ingredients__list-normal {
-    margin: 0 0 0 3%;
   }
 }
